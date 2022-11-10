@@ -7,6 +7,7 @@ These projects are from several of the classes I will list below, which I will a
 DAT-223
 DAT-325
 DAT-375
+MAT-303
 *more to come*
 
 Beware: SNHU uses turnit-in anti plagiarism technology to screen submissions, so if you are just raw copying and pasting these results, it will likely not
